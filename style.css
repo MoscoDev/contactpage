@@ -55,9 +55,14 @@ text-align: justify;
   line-height: 35px;
   text-align: center;
   justify-self: space-around;
-  margin-bottom: 60px;
+  margin-bottom: 10px;
   margin-top: -20px;
   color: #0d0c0c;
+}
+hr{
+width: 60px;
+height: 10px;
+margin-bottom: 60px;
 }
 section.top-section {
   margin-bottom: 60px;
