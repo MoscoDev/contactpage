@@ -1,2 +1,2 @@
-# MoscoDev.github.io
+# MoscoDev
 contact page
